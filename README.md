@@ -28,4 +28,5 @@ If you fail in compilation, you may refer to http://www.vlfeat.org/matconvnet/in
 
 #Thanks
 Thanks for Xuanyi Dong to realize our paper in Caffe.
+
 Thanks for Weihang Chen to report the bug in `prepare_data.m`.
