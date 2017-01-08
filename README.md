@@ -19,9 +19,9 @@ If you fail in compilation, you may refer to http://www.vlfeat.org/matconvnet/in
 #To train
 1. Compile matconvnet. If you fail in compilation, you can refer to http://www.vlfeat.org/matconvnet/install/
 
-2. Add your dataset path into `prepare_data.m` and run it. Make sure the code outputs right image path.
+2. Add your dataset path into `prepare_data.m` and run it. Make sure the code outputs the right image path.
 
 3. Run `train_id_net_res_2stream.m` to have fun.
 
 #Thanks
-Thanks for Weihang Chen to report bugs.
+Thanks for Weihang Chen to report the bug in `prepare_data.m`.
