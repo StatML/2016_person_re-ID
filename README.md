@@ -6,9 +6,9 @@ We also include matconvnet-beta23 which has been modified for our paper. All cod
 
 * [Xuanyi Dong](https://github.com/D-X-Y) also realizes our paper in [Caffe](https://github.com/D-X-Y/caffe-reid). Thanks!
 
-![](https://github.com/layumi/2016_person_re-ID/blob/master/dis2016.jpg)
+![](https://github.com/layumi/2016_person_re-ID/blob/master/figure3.jpg)
 #Dataset
-Market1501 (You can find it on https://liangzheng.org)
+Market1501 Dataset (You can find it on https://liangzheng.org)
 
 #To test
 1. Use `start-zzd.sh` to start matlab. (You need to add your CUDA path in it. Then just type `./start-zzd.sh` to run it.)
@@ -26,6 +26,16 @@ If you fail in compilation, you may refer to http://www.vlfeat.org/matconvnet/in
 
 3. Run `train_id_net_res_2stream.m` to have fun.
 
+# Citation
+Please cite this paper in your publications if it helps your research:
+```
+@article{zheng2016discriminatively,
+  title={A Discriminatively Learned CNN Embedding for Person Re-identification},
+  author={Zheng, Zhedong and Zheng, Liang and Yang, Yi},
+  journal={arXiv preprint arXiv:1611.05666},
+  year={2016}
+}
+```
 #Thanks
 Thanks for Xuanyi Dong to realize our paper in Caffe.
 
