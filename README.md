@@ -8,7 +8,7 @@ We also include matconvnet-beta23 which has been modified for our paper. All cod
 
 ![](https://github.com/layumi/2016_person_re-ID/blob/master/figure3.jpg)
 #Dataset
-Market1501 Dataset (You can find it on https://liangzheng.org)
+[Market1501 Dataset] (http://www.liangzheng.org/Project/project_reid.html)
 
 #To test
 1. Use `start-zzd.sh` to start matlab. (You need to add your CUDA path in it. Then just type `./start-zzd.sh` to run it.)
