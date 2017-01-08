@@ -4,9 +4,10 @@ In this package, we provide our training and testing code for the paper [A Discr
  
 We also include matconvnet-beta23 modified for our paper. All codes have been test on Ubuntu14.04 with Matlab R2015b.
 
-[Xuanyi Dong](https://github.com/D-X-Y) also realize our paper in [Caffe](https://github.com/D-X-Y/caffe-reid).
+* [Xuanyi Dong](https://github.com/D-X-Y) also realize our paper in [Caffe](https://github.com/D-X-Y/caffe-reid).
 
-#Data
+![](https://github.com/layumi/2016_person_re-ID/blob/master/dis2016.jpg)
+#Dataset
 Market1501 (You can find it on https://liangzheng.org)
 
 #To test
