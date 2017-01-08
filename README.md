@@ -4,6 +4,8 @@ In this package, we provide our training and testing code for the paper [A Discr
  
 We also include matconvnet-beta23 modified for our paper. All codes have been test on Ubuntu14.04 with Matlab R2015b.
 
+[Xuanyi Dong](https://github.com/D-X-Y) also realize our paper in [Caffe](https://github.com/D-X-Y/caffe-reid).
+
 #Data
 Market1501 (You can find it on https://liangzheng.org)
 
@@ -24,4 +26,5 @@ If you fail in compilation, you may refer to http://www.vlfeat.org/matconvnet/in
 3. Run `train_id_net_res_2stream.m` to have fun.
 
 #Thanks
+Thanks for Xuanyi Dong to realize our paper in Caffe.
 Thanks for Weihang Chen to report the bug in `prepare_data.m`.
