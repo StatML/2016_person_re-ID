@@ -10,8 +10,9 @@ We also include matconvnet-beta23 which has been modified for our paper. All cod
 #Dataset
 Download [Market1501 Dataset] (http://www.liangzheng.org/Project/project_reid.html)
 #Models
-Since I use the lfs in github, this reposity may be over data quota.
-Alternatively, you can download the models from [GoogleDriver](https://drive.google.com/file/d/0B0VOCNYh8HeRbEhIR3FyakkzUlU/view?usp=sharing).
+I use the git-lfs to store the large models. But this reposity may be over data quota.
+Alternatively, you can download the whole codes from [GoogleDriver](https://drive.google.com/file/d/0B0VOCNYh8HeRV29EaGRXWFZPbHM/view?usp=sharing) or [BaiduYun] (https://pan.baidu.com/s/1mhKoQ4S). 
+BaiduYun sometime changes the link. If you find the url fail, you can contact with me to update it.
 
 #To Test
 1. Use `start-zzd.sh` to start matlab. (You need to add your CUDA path in it. Then just type `./start-zzd.sh` to run it.)
